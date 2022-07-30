@@ -4,8 +4,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo](https://github.com/Vimalraj1221/fm-qr-challenge)
+- Live Site URL: [Netlify Hosted](https://challenge-qr.netlify.app/)
 
 ### Built with
 
@@ -15,5 +15,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Vimalraj1221](https://www.frontendmentor.io/profile/Vimalraj1221)
+- Twitter - [@Vimalraj1221](https://www.twitter.com/Vimalraj1221)
